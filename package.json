@@ -1,0 +1,16 @@
+{
+  "name": "subreddit-youtubes",
+  "description": "scrape a subreddit (including all history) for submissions that are youtube videos",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/maxogden/subreddit-youtubes.git
+    "
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "request": "2.16.2"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
