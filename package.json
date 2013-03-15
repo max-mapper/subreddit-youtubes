@@ -3,8 +3,7 @@
   "description": "scrape a subreddit (including all history) for submissions that are youtube videos",
   "repository": {
     "type": "git",
-    "url": "git://github.com/maxogden/subreddit-youtubes.git
-    "
+    "url": "git://github.com/maxogden/subreddit-youtubes.git"
   },
   "version": "0.0.1",
   "dependencies": {
